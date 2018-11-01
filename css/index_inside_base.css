@@ -1,0 +1,34 @@
+embed {
+	display: none;
+}
+
+* {
+	margin: 0px auto;
+	padding: 0px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+body {
+	min-height: 1080px;
+	width: 100%;
+	height: 100%;
+	
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+.base_in_bg {
+	
+
+opacity:0.8;
+width: 100%;
+height: 100%;
+position:  fixed;
+background:url(../img/base.png);
+
+background-size: cover;
+background-position: center;
+}
